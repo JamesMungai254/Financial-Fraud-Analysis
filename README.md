@@ -146,7 +146,7 @@ Ensure the dataset file is placed in the project directory before execution.
 ---
 
 ## 📁 Project Structure
-Download  [synthetic_fraud_dataset.csv]([https://example.com](https://www.kaggle.com/datasets/ealaxi/paysim1)
+Download  [synthetic_fraud_dataset.csv]([https://www.kaggle.com/datasets/ealaxi/paysim1])
 
 ```
 ├── synthetic_fraud_dataset.csv
